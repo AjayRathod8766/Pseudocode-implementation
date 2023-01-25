@@ -1,2 +1,2 @@
 # Pseudocode-implementation
-In pseudocode the algorithm can be expressed as (0-based array):
+In pseudocode the algorithm can be expressed as (0-based array):Ajay rathod
